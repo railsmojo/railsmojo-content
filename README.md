@@ -1,1 +1,1 @@
-# Content for RailsMojo
+# Guidelines to contribute to RailsMojo content
